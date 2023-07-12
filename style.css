@@ -1,0 +1,25 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/564x/ae/22/bb/ae22bb15adcff06955869d61fe6301e5.jpg);
+  height: 100%;
+  width: 100%;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/736x/4f/76/d1/4f76d12fda9110f80f0afe9b6ce50106.jpg);
+  height: 100%;
+  width: 100%;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/564x/ae/22/bb/ae22bb15adcff06955869d61fe6301e5.jpg);
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-inner {
+  height: 50vh;
+}
